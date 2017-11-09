@@ -1,0 +1,50 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image:url('../images/x-men2.jpg') ;
+    /* height: 310px; */
+  }
+  
+  .container {
+      width: 600px;
+      height: 600px;
+      margin-top: 100px;
+      margin-left: 350px;
+      background-color: white;
+  }
+
+  h1, h2 {
+      font-weight: bold;
+      font-size: 100px;
+      color: black;
+      border-bottom-style: solid;
+      border-bottom-color: black;
+      border-bottom-width: 5px; 
+      /* width: 300px; */
+      text-align: center;
+      margin-left: 00px;
+  }
+
+  #demo {
+      font-size: 50px;
+  }
+
+  #numg {
+      font-size: 25px;
+  }
+
+  #dem {
+      font-size: 25px;
+  }
+
+  #wins {
+    font-size: 25px;
+}
+
+#loses {
+    font-size: 25px;
+}
+
